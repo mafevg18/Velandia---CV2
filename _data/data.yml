@@ -59,28 +59,20 @@ career-profile:
     summary: |
       Estudiante de ingeniería de sistemas, con deseo de tener enfásis en desarrollo de software, ciberseguridad y robótica. Pequeñas bases en arduino y conexión de componentes electrónicos. Fortalezas en programación C++, diseño de problemas, organización y liderazgo de equipo. Motivación desde la parte social de poder brindar soluciones a las comunidades y/o personas que necesiten de ella.
 education:
-    title: Education
+    title: Educación
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Colegio
+        university: Liceo Campo David
+        time: 2013 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Primaria, secundaria y bachillerato. Enfásis en ciencas naturales y matemáticas.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Ingeniería de Sistemas
+        university: Ponticia Universidad Javeriana
+        time: 2024 - 2027
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Lenguajes de programación como C++ y Java. Diseño y planeación de proyectos.
             - Bullet point
             - Bullet point
 
